@@ -2,7 +2,11 @@
 
 中文眼动设备公开资料综述，收录 **50 款设备与产品系列、27 个品牌、7 类用途**。每条附介绍、场景、编辑评述、规格条件、产品图片及原始来源。
 
-**网站：https://sharkburger.github.io/eyetracker/**
+**中文网站：https://sharkburger.github.io/eyetracker/**
+
+**[English website](https://sharkburger.github.io/eyetracker/en.html)** · [English README](README.en.md)
+
+网站现支持完整中英文版本，顶部 EN / 中文可保留当前目录或设备档案位置切换。英文资料下载见 `devices.en.json` 和 `devices.en.csv`。
 
 ## 阅读与功能
 

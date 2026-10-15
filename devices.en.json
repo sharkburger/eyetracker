@@ -1,0 +1,1386 @@
+[
+  {
+    "id": "spectrum",
+    "name": "Tobii Pro Spectrum",
+    "brand": "Tobii",
+    "category": "Screen-based research",
+    "hz": 1200,
+    "url": "https://www.tobii.com/products/eye-trackers/screen-based/tobii-pro-spectrum",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://a.storyblok.com/f/290827487058644/b775fdba85/tobii-pro-spectrum-eye-tracker-with-gazeplo-on-screen.jpg/m/0x0:1500x999/1200x0/filters:format(webp):quality(100)",
+    "imageSource": "https://www.tobii.com/products/eye-trackers/screen-based/tobii-pro-spectrum",
+    "imageCredit": "Tobii",
+    "image": "assets/spectrum.webp",
+    "tagline": "High-speed tracking for the laboratory",
+    "description": "A screen-based system for vision, cognition, and oculomotor research, with gaze sampling at up to 1200 Hz.",
+    "use": "Microsaccades, reading, and gaze-contingent experiments",
+    "review": "Temporal resolution is its main draw. Assess the complete setup, including synchronization hardware, experimental software, and tracking quality in your participant population.",
+    "specNote": "Up to 1200 Hz; available modes depend on the configuration.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.tobii.com/products/eye-trackers/screen-based/tobii-pro-spectrum"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://www.tobii.com/products"
+      }
+    ]
+  },
+  {
+    "id": "eyelink3",
+    "name": "EyeLink 3",
+    "brand": "SR Research",
+    "category": "Screen-based research",
+    "hz": 1000,
+    "url": "https://www.sr-research.com/eyelink-3/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.sr-research.com/wp-content/uploads/2024/09/eyelink-3-side-view-sketch-no-axes-0.06.jpg",
+    "imageSource": "https://www.sr-research.com/eyelink-3/",
+    "imageCredit": "SR Research",
+    "image": "assets/eyelink3.webp",
+    "tagline": "Integrated eye and head tracking for research",
+    "description": "SR Research’s newer screen-based research system combines eye and head tracking at up to 1000 Hz, according to the manufacturer.",
+    "use": "Head–eye coordination, reading, and cognitive science",
+    "review": "The integrated design is worth evaluating. When migrating existing EyeLink experiments, check software versions, data fields, and end-to-end latency.",
+    "specNote": "Up to 1000 Hz, depending on the operating mode.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.sr-research.com/eyelink-3/"
+      }
+    ]
+  },
+  {
+    "id": "neon",
+    "name": "Neon",
+    "brand": "Pupil Labs",
+    "category": "Wearable",
+    "hz": 200,
+    "url": "https://pupil-labs.com/products/neon",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://framerusercontent.com/images/cWKUZ8lwSgcNscvsXzolQYoFA.png?width=2300&height=1900",
+    "imageSource": "https://pupil-labs.com/products/neon",
+    "imageCredit": "Pupil Labs",
+    "image": "assets/neon.webp",
+    "tagline": "Modular glasses powered by deep learning",
+    "description": "Neon combines an eye-tracking module with interchangeable frames and provides gaze, pupil, and other eye-state signals.",
+    "use": "Natural behavior, children, sports, and interaction prototypes",
+    "review": "Calibration-free operation can reduce preparation time, but task-specific validation remains necessary. Evaluate cloud analysis, offline workflows, and data governance together.",
+    "specNote": "NeonNet documentation lists gaze and eye-state data at 200 Hz; scene video is 30 Hz.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://pupil-labs.com/products/neon"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://pupil-labs.com/products/neon/neonnet"
+      }
+    ]
+  },
+  {
+    "id": "fusion",
+    "name": "Tobii Pro Fusion",
+    "brand": "Tobii",
+    "category": "Screen-based research",
+    "hz": 250,
+    "url": "https://www.tobii.com/products/eye-trackers/screen-based/tobii-pro-fusion",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://a.storyblok.com/f/290827487058644/dc8a3dae07/tobii-pro-fusion-eye-tracker.jpg/m/0x0:2999x1687/1200x0/filters:format(webp):quality(100)",
+    "imageSource": "https://www.tobii.com/products/eye-trackers/screen-based/tobii-pro-fusion",
+    "imageCredit": "Tobii",
+    "image": "assets/fusion.webp",
+    "tagline": "Portable screen-based research",
+    "description": "A screen-based eye tracker designed for deployment across research locations, with sampling at up to 250 Hz.",
+    "use": "UX, reading, behavioral experiments, and field deployments",
+    "review": "A useful option when deployment flexibility matters. Before choosing it, check licensed sampling modes, SDK access, and analysis-software costs.",
+    "specNote": "Up to 250 Hz; confirm the available modes and licenses.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.tobii.com/products/eye-trackers/screen-based/tobii-pro-fusion"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://www.tobii.com/products"
+      }
+    ]
+  },
+  {
+    "id": "eyelink1000",
+    "name": "EyeLink 1000 Plus",
+    "brand": "SR Research",
+    "category": "Screen-based research",
+    "hz": 2000,
+    "url": "https://www.sr-research.com/eyelink-1000-plus/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.sr-research.com/wp-content/uploads/2023/08/eyelink-1000-plus-eye-tracker-reading-1.jpg",
+    "imageSource": "https://www.sr-research.com/eyelink-1000-plus/",
+    "imageCredit": "SR Research",
+    "image": "assets/eyelink1000.webp",
+    "tagline": "A configurable high-speed experiment platform",
+    "description": "Uses a dedicated Host PC and offers multiple mounts and lenses, with integration options for neurophysiological equipment.",
+    "use": "Microsaccades and combined EEG, fMRI, or MEG experiments",
+    "review": "Its strengths are experimental control and configuration flexibility. Specify head-stabilized or head-free tracking, lenses, mounts, and synchronization requirements in the purchase configuration.",
+    "specNote": "Up to 2000 Hz binocularly with the head stabilized; Remote tracking typically supports up to 1000 Hz.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.sr-research.com/eyelink-1000-plus/"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://www.sr-research.com/wp-content/uploads/2017/11/eyelink-1000-plus-specifications.pdf"
+      }
+    ]
+  },
+  {
+    "id": "glasses3",
+    "name": "Tobii Pro Glasses 3",
+    "brand": "Tobii",
+    "category": "Wearable",
+    "hz": 100,
+    "url": "https://www.tobii.com/products/eye-trackers/wearables/tobii-pro-glasses-3",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://a.storyblok.com/f/290827487058644/2ed7f7af6d/tobii-pro-glasses-3-front-view.png/m/0x0:1500x750/1200x0/filters:format(webp):quality(100)",
+    "imageSource": "https://www.tobii.com/products/eye-trackers/wearables/tobii-pro-glasses-3",
+    "imageCredit": "Tobii",
+    "image": "assets/glasses3.webp",
+    "tagline": "Mobile recording in real-world settings",
+    "description": "A glasses-based system that combines first-person scene video with eye-tracking data for observing behavior beyond a monitor.",
+    "use": "Consumer behavior, sports, human factors, and field research",
+    "review": "Natural activities are the main use case. Trial dynamic area-of-interest annotation, prescription-lens options, and the video-analysis workflow before committing.",
+    "specNote": "Confirm the 50 / 100 Hz modes against the specific version.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.tobii.com/products/eye-trackers/wearables/tobii-pro-glasses-3"
+      }
+    ]
+  },
+  {
+    "id": "spark",
+    "name": "Tobii Pro Spark",
+    "brand": "Tobii",
+    "category": "Screen-based research",
+    "hz": 60,
+    "url": "https://www.tobii.com/products/eye-trackers/screen-based/tobii-pro-spark",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://a.storyblok.com/f/290827487058644/2395bd0c6c/tobii-pro-spark-tracker.jpg/m/23x11:2012x1516/1200x0/filters:format(webp):quality(100)",
+    "imageSource": "https://www.tobii.com/products/eye-trackers/screen-based/tobii-pro-spark",
+    "imageCredit": "Tobii",
+    "image": "assets/spark.webp",
+    "tagline": "An entry point to screen-based research",
+    "description": "Records gaze at 60 Hz and is positioned as an accessible system for attention and behavioral research.",
+    "use": "Teaching, website UX, and attention analysis with large areas of interest",
+    "review": "Useful for fixation distributions and dwell analysis. For fast saccade dynamics, first validate whether its temporal resolution meets the task requirements.",
+    "specNote": "60 Hz; sampling rate does not indicate spatial accuracy.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.tobii.com/products/eye-trackers/screen-based/tobii-pro-spark"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://www.tobii.com/products"
+      }
+    ]
+  },
+  {
+    "id": "glassesx",
+    "name": "Tobii Glasses X",
+    "brand": "Tobii",
+    "category": "Wearable",
+    "hz": null,
+    "url": "https://www.tobii.com/products/eye-trackers/wearables/tobii-glasses-x",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://a.storyblok.com/f/290827487058644/2843e08ce4/tobii-glasses-x-front-view.jpg/m/1200x0/filters:format(webp):quality(100)",
+    "imageSource": "https://www.tobii.com/products/eye-trackers/wearables/tobii-glasses-x",
+    "imageCredit": "Tobii",
+    "image": "assets/glassesx.webp",
+    "tagline": "Eye-tracking glasses for training and activity",
+    "description": "A wearable in Tobii’s current product catalog, positioned for attention recording in UX, sports, and industrial environments.",
+    "use": "Skill training, sports, and industrial tasks",
+    "review": "Evaluate field deployment and visualization workflows first. Do not assume its raw-data interfaces are identical to those of Pro Glasses 3.",
+    "specNote": "No sampling-rate value is entered here without verification.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.tobii.com/products/eye-trackers/wearables/tobii-glasses-x"
+      }
+    ]
+  },
+  {
+    "id": "duo",
+    "name": "EyeLink Portable Duo",
+    "brand": "SR Research",
+    "category": "Screen-based research",
+    "hz": 2000,
+    "url": "https://www.sr-research.com/eyelink-portable-duo/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.sr-research.com/wp-content/uploads/2026/03/eyelink-portable-duo-eye-tracker-1.0.jpg",
+    "imageSource": "https://www.sr-research.com/eyelink-portable-duo/",
+    "imageCredit": "SR Research",
+    "image": "assets/duo.webp",
+    "tagline": "High-speed EyeLink recording beyond the lab",
+    "description": "A portable screen-based system with head-stabilized and head-free modes that uses the EyeLink experimental-software ecosystem.",
+    "use": "Off-site experiments, schools, and data collection across locations",
+    "review": "Especially relevant for teams with existing EyeLink programs. Portable does not mean recording while walking: a display and suitable participant positioning are still required.",
+    "specNote": "Up to 2000 Hz binocularly with the head stabilized; up to 1000 Hz with the head free to move.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.sr-research.com/eyelink-portable-duo/"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://www.sr-research.com/eyelink-duo-technical-specifications/"
+      }
+    ]
+  },
+  {
+    "id": "core",
+    "name": "Pupil Core",
+    "brand": "Pupil Labs",
+    "category": "Wearable",
+    "hz": null,
+    "url": "https://pupil-labs.com/products/core",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://framerusercontent.com/images/7vMxaYm0YzjDvQTkywjku69mbeU.jpg?width=1000&height=1000",
+    "imageSource": "https://pupil-labs.com/products/core",
+    "imageCredit": "Pupil Labs",
+    "image": "assets/core.webp",
+    "tagline": "A wearable platform with open-source software",
+    "description": "Modular head-mounted hardware works with open-source software, a network API, and Python plugins for programmable recording.",
+    "use": "Research prototypes, method development, and custom integrations",
+    "review": "Suited to developers who want control over acquisition. Allow time for calibration, camera adjustment, and maintaining your own analysis workflow.",
+    "specNote": "Eye-camera rates and gaze-output rates differ; verify the hardware version.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://pupil-labs.com/products/core"
+      }
+    ]
+  },
+  {
+    "id": "invisible",
+    "name": "Pupil Invisible",
+    "brand": "Pupil Labs",
+    "category": "Legacy models",
+    "hz": null,
+    "url": "https://docs.pupil-labs.com/invisible/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://docs.pupil-labs.com/invisible/pi-overview.webp",
+    "imageSource": "https://docs.pupil-labs.com/invisible/",
+    "imageCredit": "Pupil Labs",
+    "image": "assets/invisible.webp",
+    "tagline": "The calibration-free platform preceding Neon",
+    "description": "Pupil Labs’ deep-learning eye-tracking glasses are now documented as a legacy platform replaced by Neon.",
+    "use": "Reproducing existing datasets and comparing historical methods",
+    "review": "Relevant when interpreting older studies. For used equipment, verify the companion phone, applications, cloud services, and maintenance status.",
+    "specNote": "Legacy product; Neon specifications must not be applied to it.",
+    "status": "Legacy / superseded",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://docs.pupil-labs.com/invisible/"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://docs.pupil-labs.com/"
+      }
+    ]
+  },
+  {
+    "id": "gp3",
+    "name": "Gazepoint GP3",
+    "brand": "Gazepoint",
+    "category": "Screen-based research",
+    "hz": 60,
+    "url": "https://www.gazept.com/product/gazepoint-gp3-eye-tracker/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.gazept.com/wp-content/uploads/GP3.jpg",
+    "imageSource": "https://www.gazept.com/product/gazepoint-gp3-eye-tracker/",
+    "imageCredit": "Gazepoint",
+    "image": "assets/gp3.webp",
+    "tagline": "Desktop tracking for teaching and basic analysis",
+    "description": "Gazepoint’s screen-based eye tracker comes with an associated analysis-software ecosystem and developer interfaces.",
+    "use": "Teaching demonstrations, website testing, and basic attention studies",
+    "review": "Run a pilot with your own display, participants, and area-of-interest sizes. Include the analysis-software edition and licensing in the budget.",
+    "specNote": "Distinguish GP3 from GP3 HD and confirm the exact model.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.gazept.com/product/gazepoint-gp3-eye-tracker/"
+      }
+    ]
+  },
+  {
+    "id": "smarteyepro",
+    "name": "Smart Eye Pro",
+    "brand": "Smart Eye",
+    "category": "Screen-based research",
+    "hz": null,
+    "url": "https://smarteye.se/smart-eye-pro/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://smarteye.se/wp-content/uploads/2022/11/Smart-Eye-Pro-Dx-2no-cables-750x700.png",
+    "imageSource": "https://smarteye.se/smart-eye-pro/",
+    "imageCredit": "Smart Eye",
+    "image": "assets/smarteyepro.webp",
+    "tagline": "Multicamera tracking across larger spaces",
+    "description": "A remote head- and eye-tracking system configurable with 2–8 cameras for more complex environments.",
+    "use": "Driving, aviation, multiple displays, and control rooms",
+    "review": "Worth evaluating for larger movement spaces and multiple display surfaces. Camera placement, calibration, and spatial mapping add engineering work compared with a single screen bar.",
+    "specNote": "Depends on the cameras and system configuration; software version numbers are not sampling rates.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://smarteye.se/smart-eye-pro/"
+      }
+    ]
+  },
+  {
+    "id": "aix",
+    "name": "Smart Eye AI-X",
+    "brand": "Smart Eye",
+    "category": "Screen-based research",
+    "hz": null,
+    "url": "https://smarteye.se/ai-x/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://smarteye.se/wp-content/uploads/2022/11/AI-X_white_new-e1668764492113-750x595.jpg",
+    "imageSource": "https://smarteye.se/ai-x/",
+    "imageCredit": "Smart Eye",
+    "image": "assets/aix.webp",
+    "tagline": "Compact screen-based behavioral research",
+    "description": "Smart Eye positions AI-X for screen-based studies in marketing, UX, and media.",
+    "use": "Advertising, websites, and attention to media",
+    "review": "Compare deployment workflows and the analysis ecosystem. Verify the raw outputs, synchronization options, and licenses required by your study.",
+    "specNote": "Confirm sampling rate and supported display size in the current configuration sheet.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://smarteye.se/ai-x/"
+      }
+    ]
+  },
+  {
+    "id": "aurora",
+    "name": "Smart Eye Aurora",
+    "brand": "Smart Eye",
+    "category": "Screen-based research",
+    "hz": null,
+    "url": "https://smarteye.se/aurora/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://smarteye.se/wp-content/uploads/2022/11/Aurora-bar-eye-tracker_white-750x700.jpg",
+    "imageSource": "https://smarteye.se/aurora/",
+    "imageCredit": "Smart Eye",
+    "image": "assets/aurora.webp",
+    "tagline": "Smart Eye’s remote bar-tracker platform",
+    "description": "Aurora is a compact remote tracker in Smart Eye’s product portfolio for screen-related research.",
+    "use": "Screen-based studies and existing Smart Eye projects",
+    "review": "Official product information remains available, but configurations may differ by generation. Ask about current availability, firmware, and support.",
+    "specNote": "Historical specifications are not treated as a single current configuration.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://smarteye.se/aurora/"
+      }
+    ]
+  },
+  {
+    "id": "dikablis",
+    "name": "Dikablis Glasses X",
+    "brand": "Ergoneers",
+    "category": "Wearable",
+    "hz": null,
+    "url": "https://ergoneers.com/solutions-mobile-eye-tracker-dikablis/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://ergoneers.com/wp-content/uploads/2025/09/Dikablis_eyetracking_glasses_mobile_hq.svg",
+    "imageSource": "https://ergoneers.com/solutions-mobile-eye-tracker-dikablis/",
+    "imageCredit": "Ergoneers",
+    "image": "assets/dikablis.svg",
+    "tagline": "Glasses for movement and challenging lighting",
+    "description": "Dikablis Glasses X works with the Prophea.X workflow and emphasizes field, sports, and multimodal recording.",
+    "use": "Driving, sports, occupational tasks, and human factors",
+    "review": "Trial fit and synchronization with other sensors. The website’s eye- and scene-camera rate descriptions need to be checked separately against the data sheet.",
+    "specNote": "The website contains both 60 Hz and “up to 120 Hz” descriptions; no single verified gaze-sampling rate is assigned here.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://ergoneers.com/solutions-mobile-eye-tracker-dikablis/"
+      }
+    ]
+  },
+  {
+    "id": "trackpixx",
+    "name": "TRACKPixx3",
+    "brand": "VPixx",
+    "category": "Screen-based research",
+    "hz": null,
+    "url": "https://docs.vpixx.com/hardware/trackpixx3",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://docs.vpixx.com/__attachments/a_0dec278fd770ea94d59790851f280b2aae90d66403c1872e9f00376798595a99/18e810e7-b6b7-4d25-9867-aed8432469e4.png?cb=e4c4a209d0e7dfc367575ff430cc1597",
+    "imageSource": "https://docs.vpixx.com/hardware/trackpixx3",
+    "imageCredit": "VPixx",
+    "image": "assets/trackpixx.webp",
+    "tagline": "Binocular tracking for vision experiments",
+    "description": "A system comprising a high-speed camera, infrared illumination, mounting hardware, and a VPixx control unit, configurable in LabMaestro.",
+    "use": "Visual psychophysics, gaze feedback, and synchronized experiments",
+    "review": "Particularly relevant to labs with VPixx hardware. Budget for the control unit, lens, mounting hardware, and display as well as the tracker.",
+    "specNote": "Consult the data sheet for sampling rate and short- or long-range lens configurations.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://docs.vpixx.com/hardware/trackpixx3"
+      }
+    ]
+  },
+  {
+    "id": "livetrack",
+    "name": "LiveTrack Lightning",
+    "brand": "Cambridge Research Systems",
+    "category": "Screen-based research",
+    "hz": 500,
+    "url": "https://www.crsltd.com/tools-for-vision-science/eye-tracking/livetrack-lightning/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.crsltd.com/assets/Products/LiveTrack-Lightning/Thumbnails/LiveTrack-Lightning-350x350.jpg",
+    "imageSource": "https://www.crsltd.com/tools-for-vision-science/eye-tracking/livetrack-lightning/",
+    "imageCredit": "Cambridge Research Systems",
+    "image": "assets/livetrack.webp",
+    "tagline": "Binocular recording for vision science",
+    "description": "LiveTrack Lightning provides 500 Hz video-based eye tracking and can be combined with CRS stimulus-presentation equipment.",
+    "use": "Saccades, pupillometry, and visual psychophysics",
+    "review": "Evaluate the complete stimulus-presentation and recording chain. Validate head-position requirements, real-time interfaces, and synchronization.",
+    "specNote": "Official documentation lists binocular recording at 500 Hz.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.crsltd.com/tools-for-vision-science/eye-tracking/livetrack-lightning/"
+      }
+    ]
+  },
+  {
+    "id": "viewpoint",
+    "name": "ViewPoint EyeTracker",
+    "brand": "Arrington Research",
+    "category": "Screen-based research",
+    "hz": 400,
+    "url": "https://www.arringtonresearch.com/headfixed.html",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.arringtonresearch.com/Remote%20Camera%20With%20Shadow.jpg",
+    "imageSource": "https://www.arringtonresearch.com/headfixed.html",
+    "imageCredit": "Arrington Research",
+    "image": "assets/viewpoint.webp",
+    "tagline": "The configurable ViewPoint platform",
+    "description": "Arrington Research offers head-fixed, head-mounted, and custom-integration options; some configurations include ocular torsion measurements.",
+    "use": "Vision experiments, torsion measurements, and custom integrations",
+    "review": "The range of configurations offers flexibility, but price and performance depend on the specific system. Check older web specifications against the newer catalog item by item.",
+    "specNote": "Up to 400 Hz applies to certain head-fixed configurations, not the entire product range.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.arringtonresearch.com/headfixed.html"
+      }
+    ]
+  },
+  {
+    "id": "xr4",
+    "name": "Varjo XR-4 series",
+    "brand": "Varjo",
+    "category": "VR / XR",
+    "hz": 200,
+    "url": "https://varjo.com/products/xr-4/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://varjo.com/hubfs/Hero%20XR-4.jpg",
+    "imageSource": "https://varjo.com/products/xr-4/",
+    "imageCredit": "Varjo",
+    "image": "assets/xr4.webp",
+    "tagline": "Integrated eye tracking for professional XR",
+    "description": "The XR-4 series uses eye tracking for dynamic foveated rendering in professional simulation and mixed-reality environments.",
+    "use": "Flight simulation, design reviews, and XR research",
+    "review": "Consider it when professional imaging and simulation integration matter. Evaluate the workstation, software licenses, and eye-tracking outputs available through the SDK.",
+    "specNote": "The manufacturer reports 200 Hz eye tracking; this is separate from display refresh rate.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://varjo.com/products/xr-4/"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://varjo.com/blog/get-to-know-the-varjo-xr-4-series-transforming-professional-workflows-with-highest-immersion-virtual-and-mixed-reality"
+      }
+    ]
+  },
+  {
+    "id": "focusvision",
+    "name": "VIVE Focus Vision",
+    "brand": "HTC VIVE",
+    "category": "VR / XR",
+    "hz": null,
+    "url": "https://www.vive.com/us/product/vive-focus-vision/overview/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.vive.com/media/filer_public/fed-assets/vive-focus-vision/images/vive-focus-vision-vr-headset-social-share-1200.jpg",
+    "imageSource": "https://www.vive.com/us/product/vive-focus-vision/overview/",
+    "imageCredit": "HTC VIVE",
+    "image": "assets/focusvision.webp",
+    "tagline": "Integrated tracking for standalone and PC VR",
+    "description": "VIVE Focus Vision integrates eye tracking and automatic IPD adjustment for compatible VR applications.",
+    "use": "VR interaction, avatars, and foveated rendering",
+    "review": "Confirm that the target application and operating mode expose the eye-tracking fields you need. Recalibration is required after changing IPD or headset position.",
+    "specNote": "Display refresh rate is not used as a proxy for eye-tracking sampling rate.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.vive.com/us/product/vive-focus-vision/overview/"
+      }
+    ]
+  },
+  {
+    "id": "proeye",
+    "name": "VIVE Pro Eye",
+    "brand": "HTC VIVE",
+    "category": "VR / XR",
+    "hz": null,
+    "url": "https://www.vive.com/sea/product/vive-pro-eye/specs/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.vive.com/media/filer_public/vive/open-graph/vive-pro-eye.jpg",
+    "imageSource": "https://www.vive.com/sea/product/vive-pro-eye/specs/",
+    "imageCredit": "HTC VIVE",
+    "image": "assets/proeye.webp",
+    "tagline": "An established headset in VR research",
+    "description": "VIVE Pro Eye integrates eye tracking and has been used in VR interaction and gaze-related research.",
+    "use": "Reproducing existing VR experiments and SDK-based research",
+    "review": "Confirm stock and support status, then check whether SRanipal, OpenXR, or the application-level interface works in your target environment.",
+    "specNote": "Older platform; availability and software support require confirmation.",
+    "status": "Further confirmation needed",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.vive.com/sea/product/vive-pro-eye/specs/"
+      }
+    ]
+  },
+  {
+    "id": "fove",
+    "name": "FOVE 0",
+    "brand": "FOVE",
+    "category": "VR / XR",
+    "hz": 120,
+    "url": "https://fove-inc.com/product/fove0/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://fove-inc.com/wp-content/uploads/2021/09/210917-0737-26-1.png",
+    "imageSource": "https://fove-inc.com/product/fove0/",
+    "imageCredit": "FOVE",
+    "image": "assets/fove.webp",
+    "tagline": "An eye-tracking VR platform for developers",
+    "description": "FOVE 0 provides eye-tracking data and SDKs for multiple languages, with Unity and Unreal integration options.",
+    "use": "VR method development, gaze interaction, and analysis",
+    "review": "Data interfaces are a main attraction. Display, positional tracking, and connection requirements also constrain experiment design, so trial the complete system.",
+    "specNote": "Eye cameras: 120 Hz. Display: 70 Hz. These are different rates.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://fove-inc.com/product/fove0/"
+      }
+    ]
+  },
+  {
+    "id": "crystal",
+    "name": "Pimax Crystal (original)",
+    "brand": "Pimax",
+    "category": "VR / XR",
+    "hz": 120,
+    "url": "https://store.pimax.com/products/pimax-crystal",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://store.pimax.com/cdn/shop/files/product_pimaxcrystal_2404_1.webp?v=1714661941",
+    "imageSource": "https://store.pimax.com/products/pimax-crystal",
+    "imageCredit": "Pimax",
+    "image": "assets/crystal.webp",
+    "tagline": "Tobii eye tracking in the original Crystal",
+    "description": "The original Pimax Crystal supports automatic IPD and dynamic foveated rendering; official material lists 120 Hz eye tracking.",
+    "use": "PC VR, simulation, and foveated rendering",
+    "review": "Model identification is essential. This entry covers the original Crystal only and does not merge features from other Crystal products.",
+    "specNote": "120 Hz, according to documentation for the original model.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://store.pimax.com/products/pimax-crystal"
+      }
+    ]
+  },
+  {
+    "id": "visionpro",
+    "name": "Apple Vision Pro",
+    "brand": "Apple",
+    "category": "VR / XR",
+    "hz": null,
+    "url": "https://www.apple.com/apple-vision-pro/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.apple.com/v/apple-vision-pro/l/images/meta/apple-vision-pro-us__f28gp8ey4vam_og.png?202609132103",
+    "imageSource": "https://www.apple.com/apple-vision-pro/",
+    "imageCredit": "Apple",
+    "image": "assets/visionpro.webp",
+    "tagline": "Spatial computing with eye and hand input",
+    "description": "Vision Pro uses infrared cameras and LEDs for eye interaction, with gaze serving as a core system input.",
+    "use": "Spatial interaction, interface design, and user experience",
+    "review": "System-level interaction does not establish access to research data. Ordinary apps do not receive continuous gaze data directly; check eligibility and restrictions for specialized interfaces.",
+    "specNote": "No eye-tracking sampling rate is inferred from display refresh rate.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.apple.com/apple-vision-pro/"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://www.apple.com/legal/privacy/data/en/eyes-hands/"
+      }
+    ]
+  },
+  {
+    "id": "hololens",
+    "name": "HoloLens 2",
+    "brand": "Microsoft",
+    "category": "Legacy models",
+    "hz": 90,
+    "url": "https://learn.microsoft.com/en-us/windows/mixed-reality/design/eye-tracking",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://news.microsoft.com/wp-content/uploads/prod/sites/549/2019/02/hololens-2-dynamics-365-guides-holographic-training-4.jpg",
+    "imageSource": "https://news.microsoft.com/source/features/innovation/hololens-2/",
+    "imageCredit": "Microsoft",
+    "image": "assets/hololens.webp",
+    "tagline": "An eye-tracking platform for optical-see-through AR",
+    "description": "HoloLens 2 provides a standard gaze ray and extended eye-tracking interfaces, with user permission and calibration required.",
+    "use": "AR interaction, industrial tasks, and reproducing existing studies",
+    "review": "The API mode determines the available data. Distinguish the standard approximately 30 Hz output from extended 30 / 60 / 90 Hz modes, and check the device lifecycle.",
+    "specNote": "90 Hz is an optional Extended Eye Tracking mode; the standard interface is approximately 30 Hz.",
+    "status": "Legacy / superseded",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://learn.microsoft.com/en-us/windows/mixed-reality/design/eye-tracking"
+      }
+    ]
+  },
+  {
+    "id": "pceye",
+    "name": "PCEye",
+    "brand": "Tobii Dynavox",
+    "category": "Assistive communication",
+    "hz": 33,
+    "url": "https://us.tobiidynavox.com/pages/pceye",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://i.shgcdn.com/a6c1ba89-242f-4084-a4d1-675e6c98c4cc/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+    "imageSource": "https://us.tobiidynavox.com/pages/pceye",
+    "imageCredit": "Tobii Dynavox",
+    "image": "assets/pceye.webp",
+    "tagline": "An eye-tracking peripheral for Windows access",
+    "description": "PCEye connects over USB and works with TD Control to support eye-based control of a Windows computer.",
+    "use": "Everyday computer access and assistive communication",
+    "review": "Evaluate comfort, target selection, and sustained use. Research-data export capabilities require separate confirmation.",
+    "specNote": "The official support page lists a gaze data rate of 33 Hz.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://us.tobiidynavox.com/pages/pceye"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://us.tobiidynavox.com/pages/pceye-product-support"
+      }
+    ]
+  },
+  {
+    "id": "tdpilot",
+    "name": "TD Pilot",
+    "brand": "Tobii Dynavox",
+    "category": "Assistive communication",
+    "hz": null,
+    "url": "https://us.tobiidynavox.com/pages/td-pilot",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://i.shgcdn.com/4e340e3f-07b3-4980-aada-96ee73ba5a47/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+    "imageSource": "https://us.tobiidynavox.com/pages/td-pilot",
+    "imageCredit": "Tobii Dynavox",
+    "image": "assets/tdpilot.webp",
+    "tagline": "iPad-based communication with eye control",
+    "description": "TD Pilot combines eye access with the iPad platform for users who need assistive communication and device access.",
+    "use": "iPad access and symbol- or text-based communication",
+    "review": "Trial the actual communication software, mounting arrangement, and everyday portability. AAC devices and research trackers serve different evaluation goals.",
+    "specNote": "Check current official system and application compatibility information.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://us.tobiidynavox.com/pages/td-pilot"
+      }
+    ]
+  },
+  {
+    "id": "iseries",
+    "name": "TD I-Series",
+    "brand": "Tobii Dynavox",
+    "category": "Assistive communication",
+    "hz": null,
+    "url": "https://us.tobiidynavox.com/pages/i-series",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://i.shgcdn.com/c497a5e9-f414-43c1-8e62-52ae5a58afb0/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+    "imageSource": "https://us.tobiidynavox.com/pages/i-series",
+    "imageCredit": "Tobii Dynavox",
+    "image": "assets/iseries.webp",
+    "tagline": "An integrated Windows eye-control platform",
+    "description": "TD I-Series combines a display, eye tracking, and communication functions in a dedicated device, with multiple sizes and configurations.",
+    "use": "Text and symbol communication, and everyday computer access",
+    "review": "Compare practical accessibility, mounts, speakers, and support. Clearly distinguish generations of I-Series and TD I-Series devices.",
+    "specNote": "Configurations vary across the series; no single sampling rate is assigned.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://us.tobiidynavox.com/pages/i-series"
+      }
+    ]
+  },
+  {
+    "id": "hiru",
+    "name": "HIRU",
+    "brand": "IRISBOND",
+    "category": "Assistive communication",
+    "hz": null,
+    "url": "https://www.irisbond.com/en/aac-products/hiru-the-first-multiplatform-eye-tracker/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.irisbond.com/wp-content/uploads/2024/01/CG300026-RTQ.jpg-1-scaled.jpg",
+    "imageSource": "https://www.irisbond.com/en/aac-products/hiru-the-first-multiplatform-eye-tracker/",
+    "imageCredit": "IRISBOND",
+    "image": "assets/hiru.webp",
+    "tagline": "Eye access for Windows and iPadOS",
+    "description": "IRISBOND HIRU is a multiplatform eye-access device for compatible Windows and iPadOS environments.",
+    "use": "Cross-platform assistive access and AAC",
+    "review": "Check the exact iPad model, OS version, application support, and mounting position. Platform support does not mean every device is plug-and-play.",
+    "specNote": "Confirm the compatibility list together with the required firmware.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.irisbond.com/en/aac-products/hiru-the-first-multiplatform-eye-tracker/"
+      }
+    ]
+  },
+  {
+    "id": "edge",
+    "name": "Eyegaze Edge",
+    "brand": "Eyegaze",
+    "category": "Assistive communication",
+    "hz": null,
+    "url": "https://eyegaze.com/products/eyegaze-edge/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://eyegaze.com/wp-content/uploads/C7-clear-1.png",
+    "imageSource": "https://eyegaze.com/products/eyegaze-edge/",
+    "imageCredit": "Eyegaze",
+    "image": "assets/edge.webp",
+    "tagline": "An eye-controlled communication system",
+    "description": "Eyegaze Edge combines an eye-tracking camera, tablet, and communication functions, with different camera configurations available.",
+    "use": "Sustained eye-controlled communication and device access",
+    "review": "Confirm whether the configuration uses an Encore or Prime camera. Their working distances, monocular/binocular modes, and sampling rates differ and should be trialed separately.",
+    "specNote": "The website lists Encore at 50 Hz and Prime at 60 Hz; these are not combined into a single device specification.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://eyegaze.com/products/eyegaze-edge/"
+      }
+    ]
+  },
+  {
+    "id": "eyeon",
+    "name": "EyeOn series",
+    "brand": "EyeTech",
+    "category": "Assistive communication",
+    "hz": null,
+    "url": "https://eyetechds.com/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://sep.turbifycdn.com/ty/cdn/yhst-16016120845095/EyeEliteCases.png",
+    "imageSource": "https://www.ergoguys.com/eyeyel14wiey.html",
+    "imageCredit": "ErgoGuys / EyeTech",
+    "image": "assets/eyeon.webp",
+    "imageNote": "The image shows EyeOn Elite. This is a product-family entry; confirm the specific configuration with the manufacturer.",
+    "tagline": "EyeTech’s dedicated communication tablets",
+    "description": "EyeOn is an assistive communication tablet product line presented by EyeTech for communication and access across age groups.",
+    "use": "AAC, everyday communication, and device access",
+    "review": "Evaluate the communication tasks and support services. Ask the supplier to specify the eye-tracking hardware, applications, and data-export permissions.",
+    "specNote": "No uniform sampling rate for the range has been verified from the overview page.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://eyetechds.com/"
+      }
+    ]
+  },
+  {
+    "id": "et5",
+    "name": "Tobii Eye Tracker 5",
+    "brand": "Tobii Gaming",
+    "category": "Consumer interaction",
+    "hz": null,
+    "url": "https://gaming.tobii.com/product/eye-tracker-5/",
+    "checked": "2026-10-15",
+    "pageStatus": "unavailable",
+    "imageUrl": "https://gaming.tobii.com/wp-content/uploads/2023/03/Hero-1.jpg",
+    "imageSource": "https://gaming.tobii.com/product/eye-tracker-5/",
+    "imageCredit": "Tobii Gaming",
+    "image": "assets/et5.webp",
+    "tagline": "Head and eye tracking designed for games",
+    "description": "Tobii Eye Tracker 5 uses gaze and head movement to enhance interaction in supported PC games.",
+    "use": "Driving and flight simulation games, and gaze overlays for streaming",
+    "review": "The official page states that it is incompatible with Pro SDK / Pro Lab and is not licensed to collect eye-tracking research data by default. It is not a direct substitute for a research tracker.",
+    "specNote": "The page does not disclose research sampling modes suitable for direct comparison. Windows Eye Control is also unsupported.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://gaming.tobii.com/product/eye-tracker-5/"
+      }
+    ]
+  },
+  {
+    "id": "nano",
+    "name": "Tobii Pro Nano",
+    "brand": "Tobii",
+    "category": "Legacy models",
+    "hz": null,
+    "url": "https://www.tobii.com/products/discontinued/tobii-pro-nano",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://a.storyblok.com/f/290827487058644/dcfd1ee07b/tobiipro-nano-hero-shot-front-2_1.jpg/m/0x0:2074x1036/1200x0/filters:format(webp):quality(100)",
+    "imageSource": "https://www.tobii.com/products/discontinued/tobii-pro-nano",
+    "imageCredit": "Tobii",
+    "image": "assets/nano.webp",
+    "tagline": "A legacy model replaced by a newer product",
+    "description": "Tobii’s official discontinued-products directory includes this device and names Tobii Pro Spark as its replacement.",
+    "use": "Interpreting older papers, reproducing experiments, and planning migrations",
+    "review": "For existing equipment, use available support documentation to assess maintenance and migration. For a new purchase, compare Tobii Pro Spark and check differences in SDKs, firmware, and data formats.",
+    "specNote": "Legacy model. This edition does not infer sampling rate from the model name or reuse specifications from its successor.",
+    "status": "Legacy / superseded",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.tobii.com/products/discontinued/tobii-pro-nano"
+      },
+      {
+        "label": "Official discontinued-products directory",
+        "url": "https://www.tobii.com/products/discontinued"
+      }
+    ]
+  },
+  {
+    "id": "tx300",
+    "name": "Tobii Pro TX300",
+    "brand": "Tobii",
+    "category": "Legacy models",
+    "hz": null,
+    "url": "https://www.tobii.com/products/discontinued/tobii-pro-tx300",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://a.storyblok.com/f/290827487058644/483438cefb/tobiipro_tx300_eye_tracker_front_2_1.jpg/m/0x0:2079x1039/960x0/filters:format(webp):quality(75)",
+    "imageSource": "https://www.tobii.com/products/discontinued/tobii-pro-tx300",
+    "imageCredit": "Tobii",
+    "image": "assets/tx300.webp",
+    "tagline": "A legacy model replaced by a newer product",
+    "description": "Tobii’s official discontinued-products directory includes this device and names Tobii Pro Spectrum as its replacement.",
+    "use": "Interpreting older papers, reproducing experiments, and planning migrations",
+    "review": "For existing equipment, use available support documentation to assess maintenance and migration. For a new purchase, compare Tobii Pro Spectrum and check differences in SDKs, firmware, and data formats.",
+    "specNote": "Legacy model. This edition does not infer sampling rate from the model name or reuse specifications from its successor.",
+    "status": "Legacy / superseded",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.tobii.com/products/discontinued/tobii-pro-tx300"
+      },
+      {
+        "label": "Official discontinued-products directory",
+        "url": "https://www.tobii.com/products/discontinued"
+      }
+    ]
+  },
+  {
+    "id": "x3120",
+    "name": "Tobii Pro X3-120",
+    "brand": "Tobii",
+    "category": "Legacy models",
+    "hz": null,
+    "url": "https://www.tobii.com/products/discontinued/tobii-pro-x3-120",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://a.storyblok.com/f/290827487058644/903e12946f/tobiipro_x3_120_eye_tracker_3_2.jpg/m/1x0:1500x1001/960x0/filters:format(webp):quality(75)",
+    "imageSource": "https://www.tobii.com/products/discontinued/tobii-pro-x3-120",
+    "imageCredit": "Tobii",
+    "image": "assets/x3120.webp",
+    "tagline": "A legacy model replaced by a newer product",
+    "description": "Tobii’s official discontinued-products directory includes this device and names Tobii Pro Fusion as its replacement.",
+    "use": "Interpreting older papers, reproducing experiments, and planning migrations",
+    "review": "For existing equipment, use available support documentation to assess maintenance and migration. For a new purchase, compare Tobii Pro Fusion and check differences in SDKs, firmware, and data formats.",
+    "specNote": "Legacy model. This edition does not infer sampling rate from the model name or reuse specifications from its successor.",
+    "status": "Legacy / superseded",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.tobii.com/products/discontinued/tobii-pro-x3-120"
+      },
+      {
+        "label": "Official discontinued-products directory",
+        "url": "https://www.tobii.com/products/discontinued"
+      }
+    ]
+  },
+  {
+    "id": "glasses2",
+    "name": "Tobii Pro Glasses 2",
+    "brand": "Tobii",
+    "category": "Legacy models",
+    "hz": null,
+    "url": "https://www.tobii.com/products/discontinued/tobii-pro-glasses-2",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://a.storyblok.com/f/290827487058644/1afbfb3e35/tobiipro_glasses_2.jpg/m/0x0:1499x999/960x0/filters:format(webp):quality(75)",
+    "imageSource": "https://www.tobii.com/products/discontinued/tobii-pro-glasses-2",
+    "imageCredit": "Tobii",
+    "image": "assets/glasses2.webp",
+    "tagline": "A legacy model replaced by a newer product",
+    "description": "Tobii’s official discontinued-products directory includes this device and names Tobii Pro Glasses 3 as its replacement.",
+    "use": "Interpreting older papers, reproducing experiments, and planning migrations",
+    "review": "For existing equipment, use available support documentation to assess maintenance and migration. For a new purchase, compare Tobii Pro Glasses 3 and check differences in SDKs, firmware, and data formats.",
+    "specNote": "Legacy model. This edition does not infer sampling rate from the model name or reuse specifications from its successor.",
+    "status": "Legacy / superseded",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.tobii.com/products/discontinued/tobii-pro-glasses-2"
+      },
+      {
+        "label": "Official discontinued-products directory",
+        "url": "https://www.tobii.com/products/discontinued"
+      }
+    ]
+  },
+  {
+    "id": "x230",
+    "name": "Tobii Pro X2-30",
+    "brand": "Tobii",
+    "category": "Legacy models",
+    "hz": null,
+    "url": "https://www.tobii.com/products/discontinued/tobii-pro-x2-30",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://a.storyblok.com/f/290827487058644/5d3993dd2d/tobiipro_x2_eye_tracker_3_2.jpg/m/0x0:1500x999/960x0/filters:format(webp):quality(75)",
+    "imageSource": "https://www.tobii.com/products/discontinued/tobii-pro-x2-30",
+    "imageCredit": "Tobii",
+    "image": "assets/x230.webp",
+    "tagline": "A legacy model replaced by a newer product",
+    "description": "Tobii’s official discontinued-products directory includes this device and names Tobii Pro Spark as its replacement.",
+    "use": "Interpreting older papers, reproducing experiments, and planning migrations",
+    "review": "For existing equipment, use available support documentation to assess maintenance and migration. For a new purchase, compare Tobii Pro Spark and check differences in SDKs, firmware, and data formats.",
+    "specNote": "Legacy model. This edition does not infer sampling rate from the model name or reuse specifications from its successor.",
+    "status": "Legacy / superseded",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.tobii.com/products/discontinued/tobii-pro-x2-30"
+      },
+      {
+        "label": "Official discontinued-products directory",
+        "url": "https://www.tobii.com/products/discontinued"
+      }
+    ],
+    "imageNote": "The image is from the official X2-30 archive page. Its alt text contains a model-name typo; this entry follows the page title."
+  },
+  {
+    "id": "gp3hd",
+    "name": "Gazepoint GP3 HD",
+    "brand": "Gazepoint",
+    "category": "Screen-based research",
+    "hz": 150,
+    "url": "https://www.gazept.com/product-category/gp3-hd/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.gazept.com/wp-content/uploads/Gazepoint-Tripod-Isolated-500x281.jpg",
+    "imageSource": "https://www.gazept.com/product-category/gp3-hd/",
+    "imageCredit": "Gazepoint",
+    "image": "assets/gp3hd.webp",
+    "tagline": "Higher-rate recording in the Gazepoint range",
+    "description": "The GP3 HD 150 Hz model uses USB 3 for behavioral research and UX data collection.",
+    "use": "UX, market research, and basic experiments",
+    "review": "Hardware and software can be purchased separately or in bundles. Check the analysis modules, export features, and update period included in the quote.",
+    "specNote": "This entry covers the 150 Hz model; older materials also describe other versions.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.gazept.com/product-category/gp3-hd/"
+      }
+    ]
+  },
+  {
+    "id": "aseepro",
+    "name": "aSee Pro",
+    "brand": "7invensun",
+    "category": "Screen-based research",
+    "hz": null,
+    "url": "https://www.7invensun.com/ydfxxlcpsysm",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.bio-equip.com/img2025/5307056.jpg",
+    "imageSource": "https://www.bio-equip.com/show1equip.asp?equipid=5307056",
+    "imageCredit": "Bio-equip.com / 7invensun",
+    "image": "assets/aseepro.webp",
+    "tagline": "A screen-based research product from 7invensun",
+    "description": "7invensun provides official aSee Pro user guides and safety documentation as part of its eye-movement analysis product range.",
+    "use": "Research and teaching where Chinese-language support is useful",
+    "review": "Compare local technical support and compatibility with experimental software. Request version-specific data sheets for sampling rate, accuracy, and SDK licensing.",
+    "specNote": "The source is the official user-documentation portal; unverified numerical values are left blank.",
+    "status": "Further confirmation needed",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.7invensun.com/ydfxxlcpsysm"
+      }
+    ]
+  },
+  {
+    "id": "aseeglasses",
+    "name": "aSee Glasses series",
+    "brand": "7invensun",
+    "category": "Wearable",
+    "hz": null,
+    "url": "https://www.7invensun.com/newsinfo/8124967.html",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.vrarworld.cn/uploads/20250312/a323ed52ba3b2ba95028a9c902d4f78e.png",
+    "imageSource": "https://www.vrarworld.cn/xinwenrili/9796.html",
+    "imageCredit": "VRAR World / 7invensun",
+    "image": "assets/aseeglasses.webp",
+    "tagline": "7invensun’s wearable eye-tracking family",
+    "description": "Official materials cover aSee Glasses, while the company’s site presents applications of aSee Glasses Plus.",
+    "use": "Outdoor behavior, teaching, human factors, and mobile research",
+    "review": "Chinese-language support and local implementation may be useful. Distinguish Glasses, Plus, and other generations rather than mixing their specifications.",
+    "specNote": "Check the exact model and firmware; this is a product-family entry.",
+    "status": "Further confirmation needed",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.7invensun.com/newsinfo/8124967.html"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://www.7invensun.com/ydfxxlcpsysm"
+      }
+    ],
+    "imageNote": "The image shows aSee Glasses Plus. This is a product-family entry; access to the original manufacturer page is restricted."
+  },
+  {
+    "id": "vida",
+    "name": "Vida / Vida Go",
+    "brand": "Smartbox",
+    "category": "Assistive communication",
+    "hz": 60,
+    "url": "https://smartboxaac.com/eye-gaze/vida/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://media.smartboxaac.com/prod/uploads/2024/04/Vida-enclosure-for-website-hero-e1760625900870.png",
+    "imageSource": "https://smartboxaac.com/eye-gaze/vida/",
+    "imageCredit": "Smartbox",
+    "image": "assets/vida.webp",
+    "tagline": "An eye-access module for Grid Pad",
+    "description": "Powered by IntelliGaze 11, Vida is available as a Grid Pad module and through a standalone-camera option.",
+    "use": "Grid communication and Windows access",
+    "review": "Trial it in everyday postures and lighting. Clarify regional availability and the mounting configurations of Vida and Vida Go.",
+    "specNote": "The manufacturer describes 60 Hz operation. Its stated 17 ms recovery time is not the same as end-to-end system latency.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://smartboxaac.com/eye-gaze/vida/"
+      }
+    ]
+  },
+  {
+    "id": "lumini",
+    "name": "Lumin-i",
+    "brand": "Smartbox",
+    "category": "Assistive communication",
+    "hz": null,
+    "url": "https://smartboxaac.com/eye-gaze/lumin-i-camera/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://media.smartboxaac.com/prod/uploads/2023/06/Eye-Gaze-unit-front-e1686062565270.png",
+    "imageSource": "https://smartboxaac.com/eye-gaze/lumin-i-camera/",
+    "imageCredit": "Smartbox",
+    "image": "assets/lumini.webp",
+    "tagline": "Smartbox’s eye-access communication solution",
+    "description": "Lumin-i works with Grid Pad communication devices and is designed for sustained everyday eye access.",
+    "use": "The Grid ecosystem and assistive communication",
+    "review": "Prioritize tracking recovery, calibration, and target selection in real use instead of comparing nominal sampling rates alone.",
+    "specNote": "Confirm the hardware generation and the paired Grid Pad model.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://smartboxaac.com/eye-gaze/lumin-i-camera/"
+      }
+    ]
+  },
+  {
+    "id": "stone",
+    "name": "ST ONE",
+    "brand": "SeeTrue Technologies",
+    "category": "Wearable",
+    "hz": 100,
+    "url": "https://www.seetruetechnologies.com/mobile-eye-tracker-stone/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.seetruetechnologies.com/wp-content/uploads/2023/11/glasses_ovt_4-768x432.png",
+    "imageSource": "https://www.seetruetechnologies.com/mobile-eye-tracker-stone/",
+    "imageCredit": "SeeTrue Technologies",
+    "image": "assets/stone.webp",
+    "tagline": "Wearable recording for mobile settings",
+    "description": "ST ONE provides gaze, pupil, and eye-position data, with streaming and API access.",
+    "use": "Mobile behavior, slippage studies, and programmable recording",
+    "review": "Calibration reuse and resistance to slippage are manufacturer design priorities. Test offsets, data loss, and recovery with your participants and activities.",
+    "specNote": "The official page lists eye tracking at 100 Hz and scene video at 30 FPS.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.seetruetechnologies.com/mobile-eye-tracker-stone/"
+      }
+    ]
+  },
+  {
+    "id": "stonelight",
+    "name": "ST ONE Light",
+    "brand": "SeeTrue Technologies",
+    "category": "Wearable",
+    "hz": 100,
+    "url": "https://www.seetruetechnologies.com/blog/introducing-st-one-light-100fps-eye-tracking-on-any-device-powered-by-onboard-image-processing/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.seetruetechnologies.com/wp-content/uploads/2023/11/glasses_ovt_4-768x432.png",
+    "imageSource": "https://www.seetruetechnologies.com/mobile-eye-tracker-stone/",
+    "imageCredit": "SeeTrue Technologies",
+    "image": "assets/stonelight.webp",
+    "tagline": "A wearable platform with onboard processing",
+    "description": "The official ST ONE Light announcement emphasizes onboard image processing and connectivity with Android devices and PCs.",
+    "use": "Mobile research, wearable interaction, and device integration",
+    "review": "Onboard processing can reduce dependence on external computing. Confirm its relationship to ST ONE, available data fields, and actual availability before ordering.",
+    "specNote": "The official announcement lists 100 FPS eye tracking. The image used here illustrates the ST ONE product family.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.seetruetechnologies.com/blog/introducing-st-one-light-100fps-eye-tracking-on-any-device-powered-by-onboard-image-processing/"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://www.seetruetechnologies.com/"
+      }
+    ],
+    "imageNote": "The image illustrates the ST ONE family and should not be used to identify the specific Light hardware version."
+  },
+  {
+    "id": "start",
+    "name": "ST ART",
+    "brand": "SeeTrue Technologies",
+    "category": "Specialized integration",
+    "hz": 50,
+    "url": "https://www.seetruetechnologies.com/ocular-eye-tracker-start/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.seetruetechnologies.com/wp-content/uploads/2023/11/ocular_front-768x549.png",
+    "imageSource": "https://www.seetruetechnologies.com/ocular-eye-tracker-start/",
+    "imageCredit": "SeeTrue Technologies",
+    "image": "assets/start.webp",
+    "tagline": "Eye tracking integrated into optical eyepieces",
+    "description": "ST ART integrates eye tracking into microscopes and other optical eyepiece devices to provide gaze and eye measurements.",
+    "use": "Microscopy tasks, optical-device human factors, and gaze interaction",
+    "review": "A specialized optical integration: check host-device interfaces, eyepiece dimensions, display overlays, and mapping to external video first.",
+    "specNote": "The official page lists 50 Hz. Installation assumptions for a general-purpose screen tracker do not apply.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.seetruetechnologies.com/ocular-eye-tracker-start/"
+      }
+    ]
+  },
+  {
+    "id": "alea",
+    "name": "IntelliGaze / CAM30 series",
+    "brand": "alea technologies",
+    "category": "Assistive communication",
+    "hz": null,
+    "url": "https://www.intelligaze.com/en/home",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://www.intelligaze.com/assets/images/6/CamNXT_HomeBanner_010B-963db4b8.png",
+    "imageSource": "https://www.intelligaze.com/en/home",
+    "imageCredit": "alea technologies",
+    "image": "assets/alea.webp",
+    "tagline": "The IntelliGaze software and camera ecosystem",
+    "description": "alea technologies provides IntelliGaze for eye-based communication and Windows access, with several CAM30 hardware generations.",
+    "use": "Assistive communication, Windows access, and eye-control activities",
+    "review": "Hardware and software licenses need to match. Check the compatibility of CAM30NT, CAM30NXT, and each software version individually.",
+    "specNote": "The official support page requires IntelliGaze 11 for CAM30NXT. No single sampling rate is assigned to the entire range.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.intelligaze.com/en/home"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://www.intelligaze.com/en/support/download"
+      }
+    ]
+  },
+  {
+    "id": "mindlink",
+    "name": "AdHawk MindLink",
+    "brand": "AdHawk Microsystems",
+    "category": "Wearable",
+    "hz": 500,
+    "url": "https://www.globenewswire.com/news-release/2021/03/23/2197630/0/en/AdHawk-Microsystems-Powers-a-New-Generation-of-Eye-Tracking-Research-with-Launch-of-AdHawk-MindLink.html",
+    "checked": "2026-10-15",
+    "pageStatus": "unavailable",
+    "imageUrl": "https://ml.globenewswire.com/Resource/Download/acbf78d8-9c35-4e30-a782-f4c3a245b7cb",
+    "imageSource": "https://www.globenewswire.com/news-release/2021/03/23/2197630/0/en/AdHawk-Microsystems-Powers-a-New-Generation-of-Eye-Tracking-Research-with-Launch-of-AdHawk-MindLink.html",
+    "imageCredit": "AdHawk Microsystems",
+    "image": "assets/mindlink.webp",
+    "tagline": "A MEMS-based approach to tracking glasses",
+    "description": "AdHawk MindLink uses MEMS eye sensing without eye-imaging cameras and was introduced as a research-oriented wearable.",
+    "use": "Comparing wearable methods, low-power sensing, and reproducing existing studies",
+    "review": "The sensing approach differs from video-based tracking. Evaluate data definitions, synchronization, and task suitability. The current manufacturer site could not be read reliably; availability and support need confirmation.",
+    "specNote": "The 2021 manufacturer announcement lists 500 samples per second. This launch specification does not establish a currently purchasable configuration.",
+    "status": "Further confirmation needed",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.globenewswire.com/news-release/2021/03/23/2197630/0/en/AdHawk-Microsystems-Powers-a-New-Generation-of-Eye-Tracking-Research-with-Launch-of-AdHawk-MindLink.html"
+      }
+    ]
+  },
+  {
+    "id": "questpro",
+    "name": "Meta Quest Pro",
+    "brand": "Meta",
+    "category": "Legacy models",
+    "hz": null,
+    "url": "https://about.fb.com/news/2022/10/meta-quest-pro-is-now-available/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://about.fb.com/wp-content/uploads/2022/10/Meta-Quest-Pro_LIVE_Header.jpg?w=1200",
+    "imageSource": "https://about.fb.com/news/2022/10/meta-quest-pro-is-now-available/",
+    "imageCredit": "Meta",
+    "image": "assets/questpro.webp",
+    "tagline": "An established XR headset with eye and face tracking",
+    "description": "Meta Quest Pro uses eye and facial signals for avatars and immersive interaction, with related developer interfaces.",
+    "use": "VR social interaction, gaze interfaces, and reproducing existing studies",
+    "review": "Check developer licensing, permissions, and SDK device support. This entry is retained as a historical platform; its launch page does not establish current inventory.",
+    "specNote": "Display refresh rate is not treated as eye-tracking sampling rate. Confirm current availability and support.",
+    "status": "Legacy / superseded",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://about.fb.com/news/2022/10/meta-quest-pro-is-now-available/"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://developers.meta.com/vr/documentation/native/android/move-overview/"
+      }
+    ]
+  },
+  {
+    "id": "psvr2",
+    "name": "PlayStation VR2",
+    "brand": "Sony",
+    "category": "VR / XR",
+    "hz": null,
+    "url": "https://www.playstation.com/en-us/ps-vr2/",
+    "checked": "2026-10-15",
+    "pageStatus": "ok",
+    "imageUrl": "https://gmedia.playstation.com/is/image/SIEPDC/PSVR2-thumbnail-01-en-22feb22",
+    "imageSource": "https://www.playstation.com/en-us/ps-vr2/",
+    "imageCredit": "Sony",
+    "image": "assets/psvr2.webp",
+    "tagline": "Integrated eye tracking in a console VR ecosystem",
+    "description": "PlayStation VR2 uses eye information in supported PS5 content for gaze-related interaction and rendering.",
+    "use": "Console VR, immersive experiences, and foveated-rendering examples",
+    "review": "Sony explicitly states that headset eye tracking is not supported in PC mode. PC connectivity alone does not make it an open research eye tracker.",
+    "specNote": "PS5 and PC support differ. Raw-data access and developer eligibility require separate verification.",
+    "status": "Official product information available",
+    "sources": [
+      {
+        "label": "Official product / original source",
+        "url": "https://www.playstation.com/en-us/ps-vr2/"
+      },
+      {
+        "label": "Specifications / support documents",
+        "url": "https://www.playstation.com/en-us/support/hardware/ps-vr2-console-pc-difference/"
+      }
+    ]
+  }
+]
