@@ -286,11 +286,11 @@
 
 ## aSee Glasses 系列
 
-- 署名：VRAR 星球 / 7invensun（Plus 软件宣传图）
+- 署名：VRAR 星球 / 7invensun
 - [来源页面](https://www.vrarworld.cn/xinwenrili/9796.html)
-- [原始图片](https://www.vrarworld.cn/uploads/20250312/b7ac445c5d4e4ca402f6cd2ff2b87cd0.png)
+- [原始图片](https://www.vrarworld.cn/uploads/20250312/a323ed52ba3b2ba95028a9c902d4f78e.png)
 - [官方 / 原始资料](https://www.7invensun.com/newsinfo/8124967.html)
-- 图片说明：图片为 aSee Glasses Plus 软件宣传图，不是实物外观；厂商原页有访问限制。
+- 图片说明：图片展示 aSee Glasses Plus；本条为系列介绍，厂商原页有访问限制。
 
 ## Vida / Vida Go
 
@@ -302,7 +302,7 @@
 ## Lumin-i
 
 - 署名：Smartbox
-- [来源页面](https://smartboxaac.com/eye-gaze/lumin-i/)
+- [来源页面](https://smartboxaac.com/eye-gaze/lumin-i-camera/)
 - [原始图片](https://media.smartboxaac.com/prod/uploads/2023/06/Eye-Gaze-unit-front-e1686062565270.png)
 - [官方 / 原始资料](https://smartboxaac.com/eye-gaze/lumin-i-camera/)
 

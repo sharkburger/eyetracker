@@ -1110,9 +1110,9 @@
     "url": "https://www.7invensun.com/newsinfo/8124967.html",
     "checked": "2026-10-15",
     "pageStatus": "ok",
-    "imageUrl": "https://www.vrarworld.cn/uploads/20250312/b7ac445c5d4e4ca402f6cd2ff2b87cd0.png",
+    "imageUrl": "https://www.vrarworld.cn/uploads/20250312/a323ed52ba3b2ba95028a9c902d4f78e.png",
     "imageSource": "https://www.vrarworld.cn/xinwenrili/9796.html",
-    "imageCredit": "VRAR 星球 / 7invensun（Plus 软件宣传图）",
+    "imageCredit": "VRAR 星球 / 7invensun",
     "image": "assets/aseeglasses.webp",
     "tagline": "七鑫易维的可穿戴眼动产品线",
     "description": "官方资料覆盖 aSee Glasses，并在官网展示 aSee glasses plus 的场景应用。",
@@ -1130,7 +1130,7 @@
         "url": "https://www.7invensun.com/ydfxxlcpsysm"
       }
     ],
-    "imageNote": "图片为 aSee Glasses Plus 软件宣传图，不是实物外观；厂商原页有访问限制。"
+    "imageNote": "图片展示 aSee Glasses Plus；本条为系列介绍，厂商原页有访问限制。"
   },
   {
     "id": "vida",
@@ -1168,7 +1168,7 @@
     "checked": "2026-10-15",
     "pageStatus": "ok",
     "imageUrl": "https://media.smartboxaac.com/prod/uploads/2023/06/Eye-Gaze-unit-front-e1686062565270.png",
-    "imageSource": "https://smartboxaac.com/eye-gaze/lumin-i/",
+    "imageSource": "https://smartboxaac.com/eye-gaze/lumin-i-camera/",
     "imageCredit": "Smartbox",
     "image": "assets/lumini.webp",
     "tagline": "Smartbox 的眼控沟通方案",
