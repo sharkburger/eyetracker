@@ -1,0 +1,694 @@
+{
+  "checked": "2026-10-16",
+  "scope": "Selected milestones; dates distinguish publications, editions, company milestones, launches, and contemporaneous records.",
+  "sources": {
+    "huey": {
+      "title": "Huey · The Psychology and Pedagogy of Reading (1908)",
+      "url": "https://archive.org/details/psychologypedago00hueyiala",
+      "type": "book",
+      "number": 1
+    },
+    "dodge": {
+      "title": "Dodge & Cline · The Angle Velocity of Eye Movements (1901)",
+      "url": "https://doi.org/10.1037/h0076100",
+      "type": "paper",
+      "number": 2
+    },
+    "buswell": {
+      "title": "Buswell · How People Look at Pictures (1935)",
+      "url": "https://books.google.com/books?id=YzYaAAAAMAAJ",
+      "type": "book",
+      "number": 3
+    },
+    "head": {
+      "title": "Hartridge & Thomson · Methods of Investigating Eye Movements (1948)",
+      "url": "https://doi.org/10.1136/bjo.32.9.581",
+      "type": "paper",
+      "number": 4
+    },
+    "coil": {
+      "title": "Robinson · Scleral Search Coil in a Magnetic Field (1963)",
+      "url": "https://doi.org/10.1109/TBMEL.1963.4322822",
+      "type": "paper",
+      "number": 5
+    },
+    "yarbus": {
+      "title": "Yarbus · Eye Movements and Vision (English edition, 1967)",
+      "url": "https://doi.org/10.1007/978-1-4899-5379-7",
+      "type": "book",
+      "number": 6
+    },
+    "yarbus-context": {
+      "title": "Tatler et al. · Yarbus, Eye Movements, and Vision (2010)",
+      "url": "https://doi.org/10.1068/i0382",
+      "type": "historical-study",
+      "number": 7
+    },
+    "dpi": {
+      "title": "Cornsweet & Crane · First and Fourth Purkinje Images (1973)",
+      "url": "https://doi.org/10.1364/JOSA.63.000921",
+      "type": "paper",
+      "number": 8
+    },
+    "reading": {
+      "title": "Just & Carpenter · From Eye Fixations to Comprehension (1980)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7413885/",
+      "type": "paper",
+      "number": 9
+    },
+    "erica": {
+      "title": "Hutchinson et al. · Human–Computer Interaction Using Eye-Gaze Input (1989)",
+      "url": "https://doi.org/10.1109/21.44068",
+      "type": "paper",
+      "number": 10
+    },
+    "hci": {
+      "title": "Jacob · What You Look At Is What You Get (CHI 1990)",
+      "url": "https://doi.org/10.1145/97243.97246",
+      "type": "paper",
+      "number": 11
+    },
+    "commercial": {
+      "title": "Tobii · Company history: 2001 founding and 2002 product",
+      "url": "https://corporate.tobii.com/about-us/history-of-tobii",
+      "type": "manufacturer",
+      "number": 12
+    },
+    "pupil": {
+      "title": "Kassner, Patera & Bulling · Pupil (2014)",
+      "url": "https://arxiv.org/abs/1405.0006",
+      "type": "paper",
+      "number": 13
+    },
+    "gazecapture": {
+      "title": "Krafka et al. · Eye Tracking for Everyone (CVPR 2016)",
+      "url": "https://arxiv.org/abs/1606.05814",
+      "type": "paper",
+      "number": 14
+    },
+    "invisible": {
+      "title": "Pupil Labs · Company history: Pupil Invisible in 2019",
+      "url": "https://pupil-labs.com/about",
+      "type": "manufacturer",
+      "number": 15
+    },
+    "invisible-paper": {
+      "title": "Tonsen et al. · A High-Level Description and Performance Evaluation of Pupil Invisible (2020)",
+      "url": "https://arxiv.org/abs/2009.00508",
+      "type": "paper",
+      "number": 16
+    },
+    "hololens": {
+      "title": "Microsoft · HoloLens 2 shipping announcement (2019-11-07)",
+      "url": "https://news.microsoft.com/source/features/innovation/hololens-2-shipping-to-customers/",
+      "type": "manufacturer",
+      "number": 17
+    },
+    "hololens-api": {
+      "title": "Microsoft Learn · Eye tracking on HoloLens 2",
+      "url": "https://learn.microsoft.com/en-us/windows/mixed-reality/design/eye-tracking",
+      "type": "documentation",
+      "number": 18
+    },
+    "mindlink": {
+      "title": "AdHawk · MindLink announcement (2021-03-23)",
+      "url": "https://www.globenewswire.com/news-release/2021/03/23/2197630/0/en/AdHawk-Microsystems-Powers-a-New-Generation-of-Eye-Tracking-Research-with-Launch-of-AdHawk-MindLink.html",
+      "type": "manufacturer",
+      "number": 19
+    },
+    "quest": {
+      "title": "Meta · Quest Pro availability (2022-10-25)",
+      "url": "https://about.fb.com/news/2022/10/meta-quest-pro-is-now-available/",
+      "type": "manufacturer",
+      "number": 20
+    },
+    "psvr": {
+      "title": "Sony · PS VR2 launch (2023-02-22)",
+      "url": "https://blog.playstation.com/2023/02/22/a-new-generation-of-virtual-reality-gaming-is-here/",
+      "type": "manufacturer",
+      "number": 21
+    },
+    "neon": {
+      "title": "Pupil Labs · Neon community announcements (May 2023)",
+      "url": "https://chat-archive.pupil-labs.com/logs/announcements/2023/05/",
+      "type": "manufacturer",
+      "number": 22
+    },
+    "neon-spec": {
+      "title": "Pupil Labs · Neon product documentation",
+      "url": "https://pupil-labs.com/products/neon",
+      "type": "manufacturer",
+      "number": 23
+    },
+    "vision": {
+      "title": "Apple · Vision Pro U.S. availability on 2024-02-02",
+      "url": "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/",
+      "type": "manufacturer",
+      "number": 24
+    },
+    "privacy": {
+      "title": "Apple · Eyes, Hands & Privacy",
+      "url": "https://www.apple.com/legal/privacy/data/en/eyes-hands/",
+      "type": "documentation",
+      "number": 25
+    },
+    "galea": {
+      "title": "OpenBCI / Pupil Labs · Galea Neon announcement (2025-10-01)",
+      "url": "https://pupil-labs.com/blog/openbci-and-pupil-labs-announce-launch-of-wireless-all-in-one-brain-body-and-eye-tracking-headset",
+      "type": "manufacturer",
+      "number": 26
+    }
+  },
+  "events": [
+    {
+      "id": "contact",
+      "year": 1898,
+      "date": "1898–1908",
+      "era": "origins",
+      "theme": "measurement",
+      "basis": "period",
+      "sources": [
+        "huey"
+      ],
+      "zh": {
+        "title": "让眼球运动留下物理轨迹",
+        "summary": "Huey 的早期阅读研究使用与眼部接触的记录装置，1908 年专著系统整理了相关方法。这一时期，人们尝试把短暂的眼球运动变成可检查的记录。",
+        "change": "从主观观察走向仪器记录。",
+        "limit": "接触眼部的装置影响舒适性，也会限制自然观看。"
+      },
+      "en": {
+        "title": "Leaving a physical trace of eye movement",
+        "summary": "Huey’s early reading work used contact-based recording equipment, documented in his 1908 monograph. Researchers were turning fleeting eye movements into records that could be inspected.",
+        "change": "A shift from observation toward instrumented recording.",
+        "limit": "Contact with the eye affected comfort and constrained natural viewing."
+      },
+      "visual": "mechanical",
+      "device": null
+    },
+    {
+      "id": "photography",
+      "year": 1901,
+      "date": "1901",
+      "era": "origins",
+      "theme": "measurement",
+      "basis": "publication",
+      "sources": [
+        "dodge"
+      ],
+      "zh": {
+        "title": "用光学摄影记录眼动",
+        "summary": "Dodge 与 Cline 发表眼球运动角速度研究，使用摄影记录路线，使测量不必依赖眼部的机械连接。",
+        "change": "光学记录成为重要的非接触测量方向。",
+        "limit": "早期装置仍依赖受控姿态，记录维度和后续分析受到限制。"
+      },
+      "en": {
+        "title": "Recording the eyes with photography",
+        "summary": "Dodge and Cline published their study of eye-movement angular velocity using photographic recording, offering an optical route without mechanical attachment to the eye.",
+        "change": "Optical recording became an important non-contact approach.",
+        "limit": "Early apparatus still depended on controlled positioning and limited recording and analysis capabilities."
+      },
+      "visual": "optical",
+      "device": null
+    },
+    {
+      "id": "pictures",
+      "year": 1935,
+      "date": "1935",
+      "era": "origins",
+      "theme": "cognition",
+      "basis": "publication",
+      "sources": [
+        "buswell"
+      ],
+      "zh": {
+        "title": "从阅读扩展到看图",
+        "summary": "Buswell 在《How People Look at Pictures》中研究观看艺术作品时的注视分布与路径。眼动记录开始帮助比较不同观看者如何探索复杂图像。",
+        "change": "研究问题扩展到图像知觉和视觉探索。",
+        "limit": "记录路径不等于直接读出注意、理解或观看意图。"
+      },
+      "en": {
+        "title": "From reading to looking at pictures",
+        "summary": "Buswell’s How People Look at Pictures examined fixation distributions and viewing paths over artworks, enabling comparisons of how people explore complex images.",
+        "change": "Research expanded into picture perception and visual exploration.",
+        "limit": "A recorded scanpath does not directly reveal attention, comprehension, or intent."
+      },
+      "visual": "scanpath",
+      "device": null
+    },
+    {
+      "id": "head-mounted",
+      "year": 1948,
+      "date": "1948",
+      "era": "origins",
+      "theme": "measurement",
+      "basis": "publication",
+      "sources": [
+        "head"
+      ],
+      "zh": {
+        "title": "记录装置开始跟随头部",
+        "summary": "Hartridge 与 Thomson 发表眼动调查方法，展示把记录装置与头部关联的早期技术路线，为后来头戴式追踪的发展提供了基础。",
+        "change": "不再只考虑把被试固定在外部仪器前。",
+        "limit": "早期头戴结构仍有体积、固定方式和活动范围的限制。"
+      },
+      "en": {
+        "title": "Bringing the recorder with the head",
+        "summary": "Hartridge and Thomson published methods for investigating eye movements, including an early head-associated recording approach that contributed to later head-mounted tracking.",
+        "change": "Researchers explored alternatives to holding the observer in front of fixed equipment.",
+        "limit": "Early head-mounted arrangements still imposed mounting, size, and movement constraints."
+      },
+      "visual": "headset",
+      "device": null
+    },
+    {
+      "id": "search-coil",
+      "year": 1963,
+      "date": "1963",
+      "era": "precision",
+      "theme": "measurement",
+      "basis": "publication",
+      "sources": [
+        "coil"
+      ],
+      "zh": {
+        "title": "搜索线圈：从磁场测量眼球转动",
+        "summary": "Robinson 发表巩膜搜索线圈方法：通过眼部线圈在磁场中的感应信号记录眼球运动。这是与相机式追踪不同的测量分支。",
+        "change": "为精密眼球运动研究提供了重要工具。",
+        "limit": "需要专门磁场与眼部接触装置；不能理解成普通无接触桌面眼动仪。"
+      },
+      "en": {
+        "title": "Search coils measure rotation through magnetic fields",
+        "summary": "Robinson introduced scleral search-coil measurement: signals induced in an eye-mounted coil record eye movement in a magnetic field. This is a different branch from camera-based tracking.",
+        "change": "An important instrument for precise oculomotor research.",
+        "limit": "It requires specialized fields and an eye-contact device, rather than a conventional non-contact desktop setup."
+      },
+      "visual": "coil",
+      "device": null
+    },
+    {
+      "id": "yarbus",
+      "year": 1965,
+      "date": "1965 / 1967",
+      "era": "precision",
+      "theme": "cognition",
+      "basis": "edition",
+      "sources": [
+        "yarbus",
+        "yarbus-context"
+      ],
+      "zh": {
+        "title": "同一画面，不同任务，不同视线",
+        "summary": "Yarbus 的专著于 1965 年出版俄文版，1967 年出版英文版。其任务指令实验使眼动与观看目的之间的关系成为经典研究问题。",
+        "change": "记录眼睛去了哪里，也开始追问为什么这样看。",
+        "limit": "经典示例不能证明仅凭一条视线轨迹就能可靠识别一个人的思想。"
+      },
+      "en": {
+        "title": "The same scene, a different task, a different scanpath",
+        "summary": "Yarbus’s monograph appeared in Russian in 1965 and English in 1967. His instruction-based experiments made the relationship between task and viewing behavior a landmark research question.",
+        "change": "Beyond where the eyes move: why the observer looks that way.",
+        "limit": "The classic examples do not establish reliable mind-reading from an individual scanpath."
+      },
+      "visual": "scanpath",
+      "device": null
+    },
+    {
+      "id": "purkinje",
+      "year": 1973,
+      "date": "1973",
+      "era": "precision",
+      "theme": "measurement",
+      "basis": "publication",
+      "sources": [
+        "dpi"
+      ],
+      "zh": {
+        "title": "双 Purkinje 图像：更精细的光学追踪",
+        "summary": "Cornsweet 与 Crane 描述利用第一、第四 Purkinje 图像的二维眼动仪，在红外下测量眼球运动，且不需要把装置附着在眼球上。",
+        "change": "高精度光学测量与减少眼部接触可以同时推进。",
+        "limit": "复杂光学结构和工作范围仍会约束实验布置；不是所有红外设备都属于双 Purkinje 系统。"
+      },
+      "en": {
+        "title": "Dual Purkinje images refine optical tracking",
+        "summary": "Cornsweet and Crane described a two-dimensional tracker using the first and fourth Purkinje images in infrared, without attaching a device to the eyeball.",
+        "change": "Precision optical measurement could advance alongside reduced eye contact.",
+        "limit": "Optical complexity and working range constrain the setup; not every infrared tracker is a dual-Purkinje system."
+      },
+      "visual": "optical",
+      "device": null
+    },
+    {
+      "id": "reading-theory",
+      "year": 1980,
+      "date": "1980",
+      "era": "intent",
+      "theme": "cognition",
+      "basis": "publication",
+      "sources": [
+        "reading"
+      ],
+      "zh": {
+        "title": "眼动成为检验阅读认知理论的工具",
+        "summary": "Just 与 Carpenter 的阅读理论论文把眼睛的注视行为与理解过程联系起来，体现了眼动指标在认知研究中的作用。",
+        "change": "硬件输出成为可以与认知理论对照的时间序列。",
+        "limit": "注视时长需要结合任务与理论解释，并不是某个心理过程的唯一标签。"
+      },
+      "en": {
+        "title": "Eye movements test theories of reading",
+        "summary": "Just and Carpenter’s reading-theory paper connected fixation behavior with comprehension, illustrating the role of eye measurements in cognitive research.",
+        "change": "Instrument output became evidence to test accounts of mental processing.",
+        "limit": "Fixation duration requires task and theoretical context; it is not a unique label for a mental process."
+      },
+      "visual": "reading",
+      "device": null
+    },
+    {
+      "id": "erica",
+      "year": 1989,
+      "date": "1989",
+      "era": "intent",
+      "theme": "interaction",
+      "basis": "publication",
+      "sources": [
+        "erica"
+      ],
+      "zh": {
+        "title": "眼睛也可以成为电脑输入",
+        "summary": "Hutchinson 等人介绍 Erica 工作站，以眼睛图像估计屏幕凝视位置，并通过菜单选择操作电脑；论文也讨论其辅助技术应用。",
+        "change": "眼动从观察工具延伸为访问和沟通通道。",
+        "limit": "可用性取决于选择机制、误触、校准与持续使用体验，而不仅是采样频率。"
+      },
+      "en": {
+        "title": "Eye gaze becomes computer input",
+        "summary": "Hutchinson and colleagues described the Erica workstation, estimating screen gaze from eye images to operate menus, including applications as an assistive device.",
+        "change": "Eye tracking extended from observation to access and communication.",
+        "limit": "Usability depends on selection, accidental activation, calibration, and sustained use—not sampling rate alone."
+      },
+      "visual": "interface",
+      "device": null
+    },
+    {
+      "id": "gaze-hci",
+      "year": 1990,
+      "date": "1990",
+      "era": "intent",
+      "theme": "interaction",
+      "basis": "publication",
+      "sources": [
+        "hci"
+      ],
+      "zh": {
+        "title": "如何区分“看”与“想要操作”",
+        "summary": "Jacob 在 CHI 1990 讨论基于眼动的人机交互技术。研究焦点逐渐从能否测量凝视，转向如何把自然观看变成可靠输入。",
+        "change": "交互设计成为与传感器同样重要的问题。",
+        "limit": "用户看向一个对象，并不自动代表想要激活它；仍需设计确认与反馈。"
+      },
+      "en": {
+        "title": "Distinguishing looking from acting",
+        "summary": "Jacob’s CHI 1990 paper examined eye-movement interaction techniques, shifting attention from measuring gaze to incorporating it naturally into human–computer dialogue.",
+        "change": "Interaction design became as important as the sensing hardware.",
+        "limit": "Looking at an object does not automatically mean activating it; confirmation and feedback still need design."
+      },
+      "visual": "interface",
+      "device": null
+    },
+    {
+      "id": "remote-products",
+      "year": 2001,
+      "date": "2001 / 2002",
+      "era": "access",
+      "theme": "platform",
+      "basis": "company",
+      "sources": [
+        "commercial"
+      ],
+      "zh": {
+        "title": "远程眼动走向更易部署的产品",
+        "summary": "Tobii 的公司史记录了 2001 年成立、2002 年推出眼动产品的过程。这是屏幕式研究工具降低部署门槛的一个代表性商业节点。",
+        "change": "校准、采集与分析开始形成更完整的产品工作流。",
+        "limit": "这是特定厂商的节点，不是全球所有商业眼动仪的起点。"
+      },
+      "en": {
+        "title": "Remote eye tracking becomes easier to deploy",
+        "summary": "Tobii’s company history records its founding in 2001 and first tracker in 2002: a representative commercial milestone in making screen-based research easier to deploy.",
+        "change": "Calibration, acquisition, and analysis increasingly formed product workflows.",
+        "limit": "This is a company milestone, not the beginning of all commercial eye tracking."
+      },
+      "visual": "screen",
+      "device": null
+    },
+    {
+      "id": "open-pupil",
+      "year": 2014,
+      "date": "2014",
+      "era": "access",
+      "theme": "platform",
+      "basis": "publication",
+      "sources": [
+        "pupil"
+      ],
+      "zh": {
+        "title": "开源可穿戴平台推动定制研究",
+        "summary": "Kassner、Patera 与 Bulling 发表 Pupil 平台论文，将可穿戴相机、开源软件和回放可视化结合，强调可扩展与可定制。",
+        "change": "研究者可以更直接地修改采集和处理流程。",
+        "limit": "开放软件不等于完全没有硬件、校准或维护成本；论文原型参数也不能套用到后来所有型号。"
+      },
+      "en": {
+        "title": "An open wearable platform supports custom research",
+        "summary": "Kassner, Patera, and Bulling presented Pupil, combining wearable cameras, open-source software, and replay visualization with an emphasis on extensibility.",
+        "change": "Researchers gained more direct control over acquisition and processing.",
+        "limit": "Open software does not remove hardware, calibration, or maintenance costs; prototype results do not apply to every later model."
+      },
+      "visual": "photo",
+      "device": "core"
+    },
+    {
+      "id": "gazecapture",
+      "year": 2016,
+      "date": "2016",
+      "era": "access",
+      "theme": "platform",
+      "basis": "publication",
+      "sources": [
+        "gazecapture"
+      ],
+      "zh": {
+        "title": "普通摄像头与数据驱动凝视估计",
+        "summary": "GazeCapture / iTracker 研究使用手机和平板数据训练神经网络，探索不增加专用传感器的凝视估计。它代表软件化与规模化的一条重要路线。",
+        "change": "扩大了可使用的硬件与参与人群范围。",
+        "limit": "软件估计与专用仪器的输出单位、误差与测试条件不同，不能直接等同于科研级硬件表现。"
+      },
+      "en": {
+        "title": "Commodity cameras meet learned gaze estimation",
+        "summary": "GazeCapture / iTracker used phone and tablet data to train a neural network, exploring gaze estimation without additional dedicated sensors. It represents an important software-driven route.",
+        "change": "A broader hardware and participant base became possible.",
+        "limit": "Output units, errors, and test conditions differ from dedicated instruments; the approaches are not interchangeable by default."
+      },
+      "visual": "neural",
+      "device": null
+    },
+    {
+      "id": "invisible",
+      "year": 2019,
+      "date": "2019",
+      "era": "natural",
+      "theme": "platform",
+      "basis": "launch",
+      "sources": [
+        "invisible",
+        "invisible-paper"
+      ],
+      "zh": {
+        "title": "深度学习走进日常外形的眼镜",
+        "summary": "Pupil Labs 在 2019 年推出 Pupil Invisible，将学习式凝视估计带入更接近日常眼镜的形态，并弱化传统逐人校准流程。",
+        "change": "自然佩戴和准备时间成为重要的产品设计目标。",
+        "limit": "免校准不等于零误差，仍需针对任务、光线和人群验证数据质量。"
+      },
+      "en": {
+        "title": "Learned estimation reaches everyday-looking glasses",
+        "summary": "Pupil Labs released Pupil Invisible in 2019, bringing learned gaze estimation to an everyday-glasses form factor with a reduced reliance on conventional per-user calibration.",
+        "change": "Natural wear and preparation time became major product goals.",
+        "limit": "Calibration-free does not mean error-free; validate quality for the task, lighting, and participants."
+      },
+      "visual": "photo",
+      "device": "invisible"
+    },
+    {
+      "id": "hololens",
+      "year": 2019,
+      "date": "2019",
+      "era": "natural",
+      "theme": "interaction",
+      "basis": "launch",
+      "sources": [
+        "hololens",
+        "hololens-api"
+      ],
+      "zh": {
+        "title": "眼动成为透视式 AR 的空间输入",
+        "summary": "HoloLens 2 于 2019 年开始交付，将眼动与手势、空间计算结合。开发者可以在获得权限后使用凝视信息构建交互。",
+        "change": "凝视从二维屏幕位置扩展到空间中的方向与目标。",
+        "limit": "标准与扩展接口的数据不同；许可、校准和系统 API 决定实际可用信息。"
+      },
+      "en": {
+        "title": "Gaze becomes spatial input in see-through AR",
+        "summary": "HoloLens 2 began shipping in 2019, combining eye tracking, hand interaction, and spatial computing. Permissioned gaze information enabled application interaction.",
+        "change": "Gaze extended beyond a 2D screen into spatial directions and targets.",
+        "limit": "Standard and extended APIs expose different data; permission, calibration, and API support determine availability."
+      },
+      "visual": "photo",
+      "device": "hololens"
+    },
+    {
+      "id": "mems",
+      "year": 2021,
+      "date": "2021",
+      "era": "natural",
+      "theme": "measurement",
+      "basis": "launch",
+      "sources": [
+        "mindlink"
+      ],
+      "zh": {
+        "title": "MEMS：不依赖眼部成像相机的另一分支",
+        "summary": "AdHawk 在 2021 年发布 MindLink，以 MEMS 传感路线进行眼动测量，展示了传统视频式方案之外的可穿戴设计选择。",
+        "change": "小型化与功耗问题可以通过不同传感架构探索。",
+        "limit": "技术路线不同，也意味着数据定义和验证方式需要重新核对；发布公告不代表当前仍有供货。"
+      },
+      "en": {
+        "title": "MEMS offers a branch beyond eye-imaging cameras",
+        "summary": "AdHawk announced MindLink in 2021, using MEMS-based sensing to demonstrate a wearable alternative to conventional video-based tracking.",
+        "change": "Miniaturization and power consumption could be addressed through another sensing architecture.",
+        "limit": "Different sensing requires checking data definitions and validation; a launch notice does not establish current stock."
+      },
+      "visual": "photo",
+      "device": "mindlink"
+    },
+    {
+      "id": "quest",
+      "year": 2022,
+      "date": "2022",
+      "era": "embedded",
+      "theme": "interaction",
+      "basis": "launch",
+      "sources": [
+        "quest"
+      ],
+      "zh": {
+        "title": "XR 设备整合眼动与虚拟化身表达",
+        "summary": "Meta Quest Pro 于 2022 年上市，内置眼动和面部追踪，服务于虚拟化身、社交临场感与混合现实体验。",
+        "change": "眼动开始作为完整 XR 体验中的一项内置能力。",
+        "limit": "内置传感器不等于向所有应用开放全部原始信号。"
+      },
+      "en": {
+        "title": "XR integrates gaze and avatar expression",
+        "summary": "Meta Quest Pro became available in 2022 with eye and facial tracking for avatars, social presence, and mixed-reality experiences.",
+        "change": "Eye tracking became an integrated capability within an XR experience.",
+        "limit": "Built-in sensing does not mean all raw signals are exposed to every application."
+      },
+      "visual": "photo",
+      "device": "questpro"
+    },
+    {
+      "id": "psvr",
+      "year": 2023,
+      "date": "2023",
+      "era": "embedded",
+      "theme": "interaction",
+      "basis": "launch",
+      "sources": [
+        "psvr"
+      ],
+      "zh": {
+        "title": "主机 VR 把眼动带入游戏体验",
+        "summary": "PlayStation VR2 于 2023 年 2 月 22 日推出，在支持的内容中使用眼动，例如角色视线互动与注视相关体验。",
+        "change": "眼动进入主机平台的内容与交互生态。",
+        "limit": "功能取决于应用和运行平台；主机功能不能直接视作开放科研数据接口。"
+      },
+      "en": {
+        "title": "Console VR brings gaze into games",
+        "summary": "PlayStation VR2 launched on February 22, 2023, with eye tracking used in supported content, including gaze interactions with characters.",
+        "change": "Gaze entered the console platform’s content and interaction ecosystem.",
+        "limit": "Features depend on content and platform; console functionality is not an open research-data interface."
+      },
+      "visual": "photo",
+      "device": "psvr2"
+    },
+    {
+      "id": "neon",
+      "year": 2023,
+      "date": "2023",
+      "era": "embedded",
+      "theme": "platform",
+      "basis": "documented",
+      "sources": [
+        "neon",
+        "neon-spec"
+      ],
+      "zh": {
+        "title": "模块化眼镜与可扩展分析工作流",
+        "summary": "2023 年的官方公告已记录 Neon 的镜架与产品更新。其模块化设计把传感硬件、不同佩戴形态与分析工具连接起来。",
+        "change": "同一传感模块可以适配更多研究场景。",
+        "limit": "此处年份表示已有同期官方资料，不把现行规格当作 2023 年所有功能的发布记录。"
+      },
+      "en": {
+        "title": "Modular glasses and expandable analysis workflows",
+        "summary": "Official announcements in 2023 document Neon frames and product updates. Its modular design connects sensing hardware, different wearing configurations, and analysis tools.",
+        "change": "A sensing module can be adapted to more research settings.",
+        "limit": "The year marks contemporaneous documentation; current specifications are not treated as a list of features launched in 2023."
+      },
+      "visual": "photo",
+      "device": "neon"
+    },
+    {
+      "id": "visionpro",
+      "year": 2024,
+      "date": "2024",
+      "era": "embedded",
+      "theme": "interaction",
+      "basis": "launch",
+      "sources": [
+        "vision",
+        "privacy"
+      ],
+      "zh": {
+        "title": "眼睛成为空间系统的主要输入之一",
+        "summary": "Apple Vision Pro 于 2024 年 2 月 2 日在美国上市，以眼睛、手势与语音组织系统交互，展示了以凝视为核心的空间界面设计。",
+        "change": "眼动从单个应用功能走向系统级交互方式。",
+        "limit": "系统能使用凝视，不代表普通应用能读取持续眼动数据；隐私边界是架构的一部分。"
+      },
+      "en": {
+        "title": "Eyes become a primary spatial-system input",
+        "summary": "Apple Vision Pro became available in the U.S. on February 2, 2024, organizing system interaction around eyes, hands, and voice.",
+        "change": "Gaze moved from an application feature toward system-level interaction.",
+        "limit": "System use of gaze does not give ordinary apps continuous eye-tracking data; privacy boundaries are part of the architecture."
+      },
+      "visual": "photo",
+      "device": "visionpro"
+    },
+    {
+      "id": "multimodal",
+      "year": 2025,
+      "date": "2025",
+      "era": "embedded",
+      "theme": "platform",
+      "basis": "launch",
+      "sources": [
+        "galea"
+      ],
+      "zh": {
+        "title": "眼动与脑、身体信号整合",
+        "summary": "OpenBCI 与 Pupil Labs 于 2025 年 10 月宣布 Galea Neon，把眼动与多种生理信号整合到同一可穿戴平台，面向多模态行为研究。",
+        "change": "研究重点继续扩展到同步、数据融合和跨场景采集。",
+        "limit": "厂商整合与同步主张仍需按具体实验验证；这是系统集成节点，并不意味着此前没有多模态研究。"
+      },
+      "en": {
+        "title": "Integrating eye, brain, and body signals",
+        "summary": "OpenBCI and Pupil Labs announced Galea Neon in October 2025, combining eye tracking and physiological signals in a wearable platform for multimodal research.",
+        "change": "Synchronization, data fusion, and recording across settings became central integration goals.",
+        "limit": "Validate manufacturer integration claims in the experiment; this milestone does not imply multimodal research began in 2025."
+      },
+      "visual": "network",
+      "device": null
+    }
+  ]
+}

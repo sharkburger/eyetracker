@@ -38,3 +38,9 @@ When editing content, update both language datasets, their CSV exports, and each
 ## Image rights
 
 Product images and trademarks remain the property of their respective owners. Third-party images are not represented as openly licensed. Original image URLs and source pages are retained for attribution and traceability. Rights holders can request an attribution correction or removal through [Issues](https://github.com/sharkburger/eyetracker/issues).
+
+## History feature and preserved edition
+
+The separate [English history page](https://sharkburger.github.io/eyetracker/history.en.html) and [Chinese history page](https://sharkburger.github.io/eyetracker/history.html) present 21 selected milestones across 6 eras and 4 thematic paths. Search, theme filters, chronological ordering, and bilingual links are available. `history-data.json` contains the bilingual records and 26 source references, checked October 16, 2026.
+
+The complete bilingual atlas before this addition is preserved under Git tag `atlas-v1-bilingual-2026-10-15`, pointing to commit `a55bb289fb5174f208fa2dd7a40a3cb558508f0d`. Existing product data, images, reviews, comparisons, and product-check dates are retained.

@@ -39,3 +39,9 @@
 图片和商标归各原权利人，未将第三方图片声明为开放许可。保留原图与出处用于设备识别与资料追溯。图片仅作资料综述展示；如权利人希望调整署名或移除图片，可通过 Issues 联系。编辑文字和网站代码与图片权利分开处理。
 
 提交补充 / 勘误：https://github.com/sharkburger/eyetracker/issues
+
+## 历史发展专题
+
+新增独立的 [中文历史页](https://sharkburger.github.io/eyetracker/history.html) 与 [英文历史页](https://sharkburger.github.io/eyetracker/history.en.html)：21 个代表节点、6 个阶段、4 条主题路线。支持搜索、主题筛选、正序 / 倒序阅读及中英文切换。完整历史资料为 `history-data.json`，核查日期 2026-10-16。
+
+新增前的完整中英文版本保存在 Git 标签 `atlas-v1-bilingual-2026-10-15`（提交 `a55bb289fb5174f208fa2dd7a40a3cb558508f0d`）。原有 50 条产品数据、图片、介绍、对比功能和原始核查日期保留。

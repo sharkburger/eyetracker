@@ -1,0 +1,2 @@
+/* Keep all catalog navigation links available on smaller screens. */
+@media(max-width:900px){header:has(.atlas-navigation){height:auto;min-height:80px;flex-wrap:wrap;gap:12px;padding-top:13px;padding-bottom:13px}.atlas-navigation{flex-wrap:wrap;gap:14px}}
